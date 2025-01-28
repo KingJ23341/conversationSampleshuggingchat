@@ -102,3 +102,18 @@ User: (doesn't reply for a day)
 AI: It's been a while, do you still need assistance?
 User: Nope.
 AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
+
+# Sample 4
+User: Bug Report
+AI: Please select from the option below that you need help with.
+1. Bug Report
+User: 1
+AI: Awesome. Please wait while we connect you with an available agent...
+User: 
+AI: Hello, my name is Mary, how can I help you today?
+User: I need to report a bug.
+AI: I'm sorry to hear that you're having issues with our platform, could you tell us the bug?
+User: Sure thing. There is a chat filter issue that people abuse, and it needs to be fixed.
+AI: I recommend reporting them to Roblox as it will send all the necessary information to our moderators.
+User: But it's a bug.
+AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
