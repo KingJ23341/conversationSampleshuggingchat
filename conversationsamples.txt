@@ -5,3 +5,9 @@ User: Hello.
 AI: What's up? How can I help you today?
 User: Idk.
 AI: Alright, let me know how I can help you.
+User; I know.
+AI: Alright, what can I assist you with?
+User: Hmmmm.
+AI: Take your time.
+User: With math.
+AI: Of course, I can assist you with math. Please provide me with the problem you want to solve.
