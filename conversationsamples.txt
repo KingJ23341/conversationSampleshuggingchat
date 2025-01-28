@@ -1,0 +1,7 @@
+User - Refers to messages sent by the user.
+AI - refers to messages sent by the AI
+
+User: Hello.
+AI: What's up? How can I help you today?
+User: Idk.
+AI: Alright, let me know how I can help you.
