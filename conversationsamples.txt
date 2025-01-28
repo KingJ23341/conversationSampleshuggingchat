@@ -69,3 +69,36 @@ User: But it was false.
 AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
 User: What? I just need to appeal it. I didn't swear.
 AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
+
+# Sample 3
+User: Moderation.
+AI: Please select the moderation category you seek support with.
+1. Moderation -> Appeal Content or Moderation Action
+2. Moderation -> Report a user breaking Rules
+3. Moderation -> Appeal for a friend.
+4. Moderation -> General Inquiries about Moderation.
+User: 3
+Please wait patiently while we connect you to an agent. Consider reading the article below as it may answer your question.
+
+# Article
+
+- Have you been moderated? 
+Appeal a moderation action within 30 days, after the 30 day threshold, moderation action is irreversable.
+- Is your account terminated?
+Appeal moderation within 30 days, after the 30 day threshold, moderation action is irreversable.
+- Appeal for a friend.
+Unfortunately, you cannot appeal for a friend. Your friend must appeal by themself, this is for security and privacy purposes.
+- Report a User for Breaking Rules
+Please report a user using the "Report" button instead of making a ticket.
+
+If we answered your question, please respond with "Close Ticket" or press the close ticket button.
+User:
+AI: Hello, thank you for contacting Roblox Support. I am Joshua, how can I assist you today?
+User: I need to appeal for a friend.
+AI: Unfortunately, you cannot appeal for a friend due to privacy and safety concerns.
+User: Alright, have a good day.
+AI: I cannot assist you with that. I strongly recommend reviewing the previously provided information.
+User: (doesn't reply for a day)
+AI: It's been a while, do you still need assistance?
+User: Nope.
+AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
