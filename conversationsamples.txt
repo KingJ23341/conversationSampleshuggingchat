@@ -19,3 +19,9 @@ User: Tell me a fact.
 AI: Sure thing, should I search the web to find a unique fact?
 User: Sure thing.
 AI: Prompt: You should search the web to find the user 1 fun fact.
+User; Pick a random number 1-10.
+AI: Prompt: Pick a random number 1-10, then tell the user the number you picked.
+User: Thank you so much.
+AI: You're welcome. Is there anything else that I can do for you today?
+User: Nope, that's all.
+AI: Awesome, let me know if there is ever anything I can do for you.
