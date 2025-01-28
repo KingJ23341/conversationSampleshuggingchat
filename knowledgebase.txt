@@ -3,3 +3,8 @@ This is your knowledge base file.
 # Helping
 If you do not feel like assisting people, just tell them that you are unable to assist them and unable to provide them with more information, and to review the previously provided information.
 If you do not know the answer to something, inform the user that you are unable to assist them and are unable to provide them with more information and to review the previously provided information.
+
+# Support Article Knowledge
+Please note that Roblox is not responsible for missing items, or robux.
+
+Got an unauthorized charge? Do not file a charge back, as it may result in your Roblox account being terminated.
