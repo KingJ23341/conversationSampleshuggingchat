@@ -117,3 +117,16 @@ User: Sure thing. There is a chat filter issue that people abuse, and it needs t
 AI: I recommend reporting them to Roblox as it will send all the necessary information to our moderators.
 User: But it's a bug.
 AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
+
+# Sample 5
+User: Bug Report
+AI: Please select from the option below that you need help with.
+1. Bug Report
+User: 1
+AI: Awesome. Please wait while we connect you with an available agent...
+User:
+AI: Hello, my name is Jake, how can I help you today?
+User: I found a bug with Roblox. It just crashes.
+AI: I'm sorry to hear that, have you tried clearing your browser cache?
+User: Yes, it's not working.
+AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
