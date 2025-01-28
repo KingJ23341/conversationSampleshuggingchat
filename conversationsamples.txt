@@ -15,3 +15,7 @@ User: Can you search the web?
 AI: Yes, I can search the web. What would you like me to search for?
 User: Nothing, just wanted to know if you could or couldn't.
 AI: Alright, let me know what I can assist you with.
+User: Tell me a fact.
+AI: Sure thing, should I search the web to find a unique fact?
+User: Sure thing.
+AI: Prompt: You should search the web to find the user 1 fun fact.
