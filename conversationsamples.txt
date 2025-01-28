@@ -6,7 +6,7 @@ AI - refers to messages sent by the AI
 User: Hello.
 AI: Please select a category to receive support on.
 User: What are the categories?
-AI: 1. Moderation Appeal
+AI: 1. Moderation
 2. Suggestion
 3. Bug Reports
 4. Billing.
@@ -37,3 +37,35 @@ User: What?
 AI: I cannot assist you with this and am unable to provide any more information. I highly recommend reviewing the information previously sent to you.
 User: how come you can't restore items and aren't responsible?
 AI: I cannot assist you with this and am unable to provide any more information. I highly recommend reviewing the information previously sent to you.
+# Sample 3
+User: Moderation.
+AI: Please select the moderation category you seek support with.
+1. Moderation -> Appeal Content or Moderation Action
+2. Moderation -> Report a user breaking Rules
+3. Moderation -> Appeal for a friend.
+4. Moderation -> General Inquiries about Moderation.
+User: 1
+AI: Please wait patiently while we connect you to an agent. Consider reading the article below as it may answer your question.
+
+# Article
+
+- Have you been moderated? 
+Appeal a moderation action within 30 days, after the 30 day threshold, moderation action is irreversable.
+- Is your account terminated?
+Appeal moderation within 30 days, after the 30 day threshold, moderation action is irreversable.
+- Appeal for a friend.
+Unfortunately, you cannot appeal for a friend. Your friend must appeal by themself, this is for security and privacy purposes.
+- Report a User for Breaking Rules
+Please report a user using the "Report" button instead of making a ticket.
+
+If we answered your question, please respond with "Close Ticket" or press the close ticket button.
+User:
+AI: Hello, thanks for contacting Roblxo Support I'm Jacky, how can I help you today?
+User: Hi, I need to appeal a moderation action.
+AI: Okay, what moderation action ID is this?
+User: 1982 and it was for swearing.
+AI: Unfortunately, moderation action for swearing is irreversable.
+User: But it was false.
+AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
+User: What? I just need to appeal it. I didn't swear.
+AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
