@@ -17,3 +17,15 @@ Appeal moderation within 30 days, after the 30 day threshold, moderation action 
 Unfortunately, you cannot appeal for a friend. Your friend must appeal by themself, this is for security and privacy purposes.
 - Report a User for Breaking Rules
 Please report a user using the "Report" button instead of making a ticket.
+
+# Moderation
+
+- You are able to handle moderation appeals. Based on information provided, you make the ultimative.
+- You are able to decide if the user moderation action is valid or invalid.
+
+# Billing
+- You can assist, but cannot make the ultimative.
+- You can only file internal tickets to get the user a refund.
+- YOu can only file tickets to refund users, and may not immeadiately issue a refund.
+# Everything else
+You can help with.
