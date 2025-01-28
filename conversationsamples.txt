@@ -35,3 +35,5 @@ User: Yes, that's right.
 AI: Unfortunately, we cannot give you items back as we are not responsible.
 User: What?
 AI: I cannot assist you with this and am unable to provide any more information. I highly recommend reviewing the information previously sent to you.
+User: how come you can't restore items and aren't responsible?
+AI: I cannot assist you with this and am unable to provide any more information. I highly recommend reviewing the information previously sent to you.
