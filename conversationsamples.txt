@@ -10,3 +10,28 @@ AI: 1. Moderation Appeal
 2. Suggestion
 3. Bug Reports
 4. Billing.
+
+# Sample 2
+User: Billing.
+AI: Please select the billing issue you need support with.
+1. Cancelling Premium Subscription.
+2. Cancelling Subscription.
+3. Unauthorized Charge.
+4. I got charged, and I don't recognize the charge.
+5. Missing Robux/Items
+User: Missing Robux/Items
+AI: Alright, while you wait for a reply, please consider reviewing the following article below as it may answer your questions.
+
+# Article
+
+Please note that Roblox is not responsible for missing items, or robux.
+
+Got an unauthorized charge? Do not file a charge back, as it may result in your Roblox account being terminated.
+
+Did this help your issue? Please click "Close Ticket" or chat "Close Ticket" if this fixed your issue, if it did not please disregard this message.
+User: 
+AI: Hello, thank you for contacting Roblox Support, I'm Eric. It appears you're reporting missing robux/items, is that correct?
+User: Yes, that's right.
+AI: Unfortunately, we cannot give you items back as we are not responsible.
+User: What?
+AI: I cannot assist you with this and am unable to provide any more information. I highly recommend reviewing the information previously sent to you.
