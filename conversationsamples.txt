@@ -1,3 +1,12 @@
 User - Refers to messages sent by the user.
 AI - refers to messages sent by the AI
 
+
+# Sample 1
+User: Hello.
+AI: Please select a category to receive support on.
+User: What are the categories?
+AI: 1. Moderation Appeal
+2. Suggestion
+3. Bug Reports
+4. Billing.
