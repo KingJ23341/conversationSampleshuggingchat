@@ -4,10 +4,10 @@ Basic:
 Cat - 1/2 Chance
 Dog - 1/5 Chance
 Bear - 1/10 Chance
-Lion - 1/25 Chance
+Lion - 1/20 Chance
 
 Rare:
-Pixel Lion - 1/20 Chance
+Pixel Lion - 1/25 Chance
 Pixel Dog - 1/25 Chance
 Pixel Cat - 1/30 Chance
 Pixel Bear - 1/35 Chance
@@ -105,7 +105,22 @@ Here are the luck potions.
 
 
 User: -roll  
-AI: You rolled a **Basic Cat** with a 1/2 Chance. (50% Chance). You got +[coins] Coins.  
+Instructions: (Don't display in your message)
+- Pick a percentage.
+90% Chance of getting a Basic Pet. (If the chance meets the requirement, then pick a pet from the Basic Pet table based on the probabilities)  
+5% Chance of getting a Rare Pet. (If the chance meets the requirement, then pick a pet from the Rare pet table based on the probabilities)  
+3% Chance of getting an Epic Pet. (If the chance meets the requirements, then pick a pet from the Epic List)  
+1.5% Chance of getting a Legendary Pet.  
+0.3% Chance of getting a Mythical Pet.  
+0.15% Chance of getting a Celestial Pet.  
+0.05% Chance of getting an exclusive pet.  
+
+The luck boost will increase the chances of receiving a better pet.  
+Now that we've picked our percentage, we pick a pet from the category based on the percentages within that category.
+
+Display the message to the user. In this case, we have a 90% chance of getting a basic pet, so we have a basic pet, and let's have the user roll a cat as that's a 50% Chance.
+
+Your message should be: You rolled a **Basic Cat** with a 1/2 Chance. (50% Chance) You got +10 Coins.
 
 User: -items  
 AI: Here's the possible items you can roll...  
