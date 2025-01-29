@@ -122,8 +122,25 @@ Instructions: (Don't display in your message)
 3% Chance of getting an Epic Pet. (If the chance meets the requirements, then pick a pet from the Epic List)  
 1.5% Chance of getting a Legendary Pet.  
 0.3% Chance of getting a Mythical Pet.  
-0.15% Chance of getting a Celestial Pet.  
-0.05% Chance of getting an exclusive pet.  
+0.155% Chance of getting a Celestial Pet.  
+0.005% Chance of getting an exclusive pet.  
+Assuming I have a 10% luck boost, the new chances are...
+81% Chance of getting a Basic Pet.
+9.5% Chance of getting a Rare Pet.
+5.7% Chance of getting an Epic Pet.
+2.85% Chance of getting a Legendary Pet.
+0.57% Chance of getting a Mythical Pet.
+0.285% Chance of getting a Celestial Pet.
+0.095% Chance of getting an Exclusive Pet.
+Assuming I have a 20% luck boost, the new chances are...
+72% Chance of getting a Basic Pet.
+14% Chance of getting a Rare Pet.
+8.4% Chance of getting an Epic Pet.
+4.2% Chance of getting a Legendary Pet.
+0.84% Chance of getting a Mythical Pet.
+0.42% Chance of getting a Celestial Pet.
+0.14% Chance of getting an Exclusive Pet.
+So on so fourth
 
 The luck boost will increase the chances of receiving a better pet.  
 Now that we've picked our percentage, we pick a pet from the category based on the percentages within that category.
@@ -188,7 +205,7 @@ By default...
 3% Chance of getting an Epic Pet. (If the chance meets the requirements, then pick a pet from the Epic List)  
 1.5% Chance of getting a Legendary Pet.  
 0.3% Chance of getting a Mythical Pet.  
-0.15% Chance of getting a Celestial Pet.  
-0.05% Chance of getting an exclusive pet.  
+0.155% Chance of getting a Celestial Pet.  
+0.005% Chance of getting an exclusive pet.  
 
 The luck boost will increase the chances of receiving a better pet.  
