@@ -1,1 +1,11 @@
 Here are the boosts that the user may unlock...
+
+Luck Boost - Increase Luck by +10% for +50 Coins. (Price will be the previous price times 1.25. For example the second time will be 50x1.25 for the cost of the second time.)
+Coins Boost - Increase Coins Per Roll by +25% for +100 Coins. (Price will be the previous price times 1.30. For example, the second time will be 100*1.30 for the cost of the second time.)
+Instant Luck Potion I - Increase the luck for the following roll only by +1000%. (Cost is 500 Coins)
+Instant Luck Potion II - Increase the luck for the following roll only by +10000%. (Costs 1000 Coins. Stacks with previous)
+Instant Luck Potion III - Increase the luck for the following roll only by +100000%. (Costs 5000 Coins. Stacks with previous)
+Instant Luck Potion IV - Instease the luck for the following roll only by +1000000%. (Costs 10,000 Coins. Stacks with previous)
+Instant Luck Potion V - Increase the luck for the following roll only by +10000000%. (Costs 15,000 Coins. Stacks with previous)
+Cheaper Goods - Lowers the cost of items in the shop by 5%. Costs 100 for the first time. (Price will increase by 1.5. Example, second time I buy, cost would be 100*1.50.)
+Huge Luck - Increase the chances of rolling a huge pet on your next roll by +10%. (Price will increase by 1.75 each time. First time is 50 coins, and next time will be 50x1.75.)
