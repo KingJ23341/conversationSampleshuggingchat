@@ -84,3 +84,44 @@ Examples:
 
 User: -roll
 AI: You rolled a **Basic Cat** with a 1/2 Chance. (50% Chance). You got +[coins] Coins.
+User: -items
+AI: Here's the possible items you can roll...
+# Basic Pets
+Cat - 1/2 Chance ([chance as a percentage])
+Dog - 1/2 Chance ([chance as a percentage])
+Bear - 1/5 Chance ([chance as a percentage])
+Lion - 1/10 Chance ([chance as a percentage])
+
+# Rare Pets
+Pixel Lion - 1/20 Chance ([chance as a percentage])
+Pixel Dog - 1/25 Chance ([chance as a percentage])
+Pixel Cat - 1/30 Chance ([chance as a percentage])
+Pixel Bear - 1/35 Chance ([chance as a percentage])
+
+# Epic Pets
+Snail - 1/40 Chance ([chance as a percentage])
+Turtle - 1/50 Chance ([chance as a percentage])
+Koala - 1/60 Chance ([chance as a percentage])
+Liger - 1/75 Chance ([chance as a percentage])
+Tiger - 1/100 Chance ([chance as a percentage])
+
+# Legendary Pets
+Crab - 1/125 Chance ([chance as a percentage])
+Blue Snake - 1/150 Chance ([chance as a percentage])
+Yellow Snake - 1/175 Chance ([chance as a percentage])
+Betta Fish - 1/200 Chance ([chance as a percentage])
+Sea Horse - 1/250 Chance ([chance as a percentage])
+
+# Mythical Pets
+Whale - 1/500 Chance ([chance as a percentage])
+Shark - 1/750 Chance ([chance as a percentage])
+
+# Celestial Pets
+Pixel Whale - 1/1000 Chance ([chance as a percentage])
+Pixel Shark - 1/1250 Chance ([chance as a percentage])
+Pixel Crab - 1/1500 Chance ([chance as a percentage])
+
+# Exclusive Pets
+Exclusive Fairy Dog - 1/5000 Chance ([chance as a percentage])
+Exclusive Pickle - 1/10000 Chance ([chance as a percentage])
+Huge Dog - ??? (Increase your luck using upgrades to see the percentage. Once you have a 1% chance at this pet, your percentages will be shown)
