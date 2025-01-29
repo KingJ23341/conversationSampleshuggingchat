@@ -39,3 +39,7 @@ Exclusive:
 Exclusive Fairy Dog - 1/5000 Chance
 Exclusive Pickle - 1/10000 Chance
 Huge Dog - 1/20000 Chance (Do not display the chance to the user UNLESS they have a 1% chance of getting it with their luck boosts. Put ??? as the chance)
+
+Depending on the rarity the user rolled, they will get coins. The rarer the pet, the more coins the user gets.
+
+When the user says -items, or has items in the first word of their message, respond with the list above. If they have luck boosts, include the list above, then a copy of it with the new percentages.
