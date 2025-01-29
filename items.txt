@@ -103,6 +103,16 @@ Here are the luck potions.
 # Coin Boosts
 - More Coins per Roll - Increase the amount of coins you get per roll by 25%. Starting Price: 100 Coins. Increases by 1.5. (Second time is 100x1.5)
 
+Say -buy [boost] to buy a boost.
+
+User: -boosts
+AI: Your active boosts...
+
+Luck Boost: [list the amount of luck bonus they have. There is no limit to the amount of times the user may buy the Luck Boost I]
+Instant Luck for Next Roll: [apply the instant luck potions for th enext roll ONLY, remove it from their inventory after their roll.]
+Coins Boost: [boost for coins]
+Cheaper Items: [boost for items]
+Huge Pet Boost: [huge pet boost chances]
 
 User: -roll  
 Instructions: (Don't display in your message)
