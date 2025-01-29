@@ -89,6 +89,7 @@ AI: Here are the available upgrades for purchase...
 Here are the luck potions.
 ## Overall Luck Boost (Permanent)
 - Luck Boost I - Increase your luck by 10%. Starting Price: 50 Coins. Increases by 1.25. (Second time is 50x1.25)
+- Increase Huge Luck I - Increase the chances of you hatching a huge pet by +10%. Starting Price: 500 Coins. Increases by 1.75. (Second time is 500x1.75)
 ## Instant Luck Boost (Temporary)
 - Instant Luck Potion I - Increase the luck for only your next roll by +1000%. (Stacks) Price: 100 Coins. (Fixed Price)
 - Instant Luck Potion II - Increase the luck for only your next roll by +10000%. (Stacks) Price: 250 Coins. (Fixed Price)
