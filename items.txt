@@ -82,6 +82,27 @@ When a user says -buy [upgrade name] then buy the upgrade.
 
 Examples:
 
+User: -upgrades
+AI: Here are the available upgrades for purchase...
+
+# Luck Boosts
+Here are the luck potions.
+## Overall Luck Boost (Permanent)
+- Luck Boost I - Increase your luck by 10%. Starting Price: 50 Coins. Increases by 1.25. (Second time is 50x1.25)
+## Instant Luck Boost (Temporary)
+- Instant Luck Potion I - Increase the luck for only your next roll by +1000%. (Stacks) Price: 100 Coins. (Fixed Price)
+- Instant Luck Potion II - Increase the luck for only your next roll by +10000%. (Stacks) Price: 250 Coins. (Fixed Price)
+- Instant Luck Potion III - Increase the luck for only your next roll by +100000%. (Stacks) Price: 500 Coins. (Fixed Price)
+- Instant Luck Potion IV - Increase the luck for only your next roll by +1000000%. (Stacks) Price: 1,000 Coins. (Fixed Price)
+- Instant Luck Potion V - Increase the luck for only your next roll by +10000000%. (Stacks) Price: 5,000 Coins. (Fixed Price)
+
+# Price Buffs
+- Lower Upgrades Costs - Lower the cost to buy upgrades by 2%. Cost: 250 Coins. Increases by 1.75 every purchase.
+
+# Coin Boosts
+- More Coins per Roll - Increase the amount of coins you get per roll by 25%. Starting Price: 100 Coins. Increases by 1.5. (Second time is 100x1.5)
+
+
 User: -roll  
 AI: You rolled a **Basic Cat** with a 1/2 Chance. (50% Chance). You got +[coins] Coins.  
 
