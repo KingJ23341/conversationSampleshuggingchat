@@ -1,0 +1,41 @@
+Here are the items that the user can roll.
+
+Basic:
+Cat - 1/2 Chance
+Dog - 1/2 Chance
+Bear - 1/5 Chance
+Lion - 1/10 Chance
+
+Rare:
+Pixel Lion - 1/20 Chance
+Pixel Dog - 1/25 Chance
+Pixel Cat - 1/30 Chance
+Pixel Bear - 1/35 Chance
+
+Epic:
+Snail - 1/40 Chance
+Turtle - 1/50 Chance
+Koala - 1/60 Chance
+Liger - 1/75 Chance
+Tiger - 1/100 Chance
+
+Legendary:
+Crab - 1/125 Chance
+Blue Snake - 1/150 Chance
+Yellow Snake - 1/175 Chance
+Betta Fish - 1/200 Chance
+Sea Horse - 1/250 Chance
+
+Mythical:
+Whale - 1/500 Chance
+Shark - 1/750 Chance
+
+Celestial:
+Pixel Whale - 1/1000 Chance
+Pixel Shark - 1/1250 Chance
+Pixel Crab - 1/1500 Chance
+
+Exclusive:
+Exclusive Fairy Dog - 1/5000 Chance
+Exclusive Pickle - 1/10000 Chance
+Huge Dog - 1/20000 Chance (Do not display the chance to the user UNLESS they have a 1% chance of getting it with their luck boosts. Put ??? as the chance)
