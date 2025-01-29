@@ -132,7 +132,11 @@ Display the message to the user. In this case, we have a 90% chance of getting a
 
 Your message should be: You rolled a **Basic Cat** with a 1/2 Chance. (50% Chance) You got +10 Coins.
 
-User: -items  
+User: -items (With a luck boost)
+AI: Here's the possible items you can roll...  
+(list the regular items chances from the command below, then list the modified percentages]
+
+User: -items (assuming I have no luck boosts)
 AI: Here's the possible items you can roll...  
 
 # Basic Pets  
