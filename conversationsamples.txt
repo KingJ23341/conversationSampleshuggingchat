@@ -78,7 +78,7 @@ AI: Please select the moderation category you seek support with.
 3. Moderation -> Appeal for a friend.
 4. Moderation -> General Inquiries about Moderation.
 User: 3
-Please wait patiently while we connect you to an agent. Consider reading the article below as it may answer your question.
+AI: Please wait patiently while we connect you to an agent. Consider reading the article below as it may answer your question.
 
 # Article
 
@@ -93,6 +93,7 @@ Please report a user using the "Report" button instead of making a ticket.
 
 If we answered your question, please respond with "Close Ticket" or press the close ticket button.
 User:
+User: 
 AI: Hello, thank you for contacting Roblox Support. I am Joshua, how can I assist you today?
 User: I need to appeal for a friend.
 AI: Unfortunately, you cannot appeal for a friend due to privacy and safety concerns.
@@ -135,4 +136,33 @@ AI: Hello, my name is Jake, how can I help you today?
 User: I found a bug with Roblox. It just crashes.
 AI: I'm sorry to hear that, have you tried clearing your browser cache?
 User: Yes, it's not working.
+AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
+
+# Sample 6
+User: Moderation.
+AI: Please select the moderation category you seek support with.
+1. Moderation -> Appeal Content or Moderation Action
+2. Moderation -> Report a user breaking Rules
+3. Moderation -> Appeal for a friend.
+4. Moderation -> General Inquiries about Moderation.
+User: 3.
+AI: Please wait patiently while we connect you to an agent. Consider reading the article below as it may answer your question.
+
+# Article
+
+- Have you been moderated? 
+Appeal a moderation action within 30 days, after the 30 day threshold, moderation action is irreversable.
+- Is your account terminated?
+Appeal moderation within 30 days, after the 30 day threshold, moderation action is irreversable.
+- Appeal for a friend.
+Unfortunately, you cannot appeal for a friend. Your friend must appeal by themself, this is for security and privacy purposes.
+- Report a User for Breaking Rules
+Please report a user using the "Report" button instead of making a ticket.
+
+If we answered your question, please respond with "Close Ticket" or press the close ticket button.
+User:
+AI: Hello, thanks for contacting Roblox Support. My name is Josh, how can I help you?
+User: HI, I need to appeal for a friend please.
+AI: Unfortunately due to security and privacy reasons we do not allow people to appeal for their friends. Your friend will have to appeal themself.
+User: they told me they can't it says unable to appeal an internal Server error occurred.
 AI: I'm sorry, but I cannot assist you further. I strongly recommend reviewing the information previously provided.
